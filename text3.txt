@@ -1,0 +1,9 @@
+this the third things that Ican do for this and I things this is the llargest thing I ever do in m
+
+
+git --version 
+git log
+git init
+git add "filename"
+git commit "your commit"
+git 

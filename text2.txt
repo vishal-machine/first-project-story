@@ -1,0 +1,8 @@
+this is the second text that I complete and it is really awesome 4
+
+ls -a 
+git --version
+git init
+git add "file name"
+git commmit "your commitment"
+git log 
