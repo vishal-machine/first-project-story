@@ -6,4 +6,5 @@ git log
 git init
 git add "filename"
 git commit "your commit"
-git 
+git branch "branch name"
+git checkout "branch name"
