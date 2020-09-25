@@ -6,3 +6,8 @@ git init
 git add "file name"
 git commmit "your commitment"
 git log 
+git diff "file name"
+git checkout
+git clone "git url"
+git branch "branch name"
+git branch
